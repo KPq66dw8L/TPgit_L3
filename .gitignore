@@ -1,0 +1,4 @@
+configuration.txt
+base.h2
+dossier/ #Va exclure le dossier entier
+*.h2 #Va exclure tout les fichiers terminant par .h2
