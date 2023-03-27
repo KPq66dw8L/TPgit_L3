@@ -1,1 +1,5 @@
-coucou
+<<<<<<< HEAD
+
+=======
+bonjour
+>>>>>>> conflit
